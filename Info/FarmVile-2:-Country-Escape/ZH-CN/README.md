@@ -1,6 +1,6 @@
 # 乡村度假 2 破解存档
 
-通过修改存档的方式获取最棒的资源
+通过修改存档的方式使你轻松的游玩
 
 ### [下载存档](https://github.com/ender-zhao/game-save/releases/tag/FarmVile-2-Country-Escape)
 
