@@ -2,6 +2,8 @@
 
 通过修改存档的方式获取最棒的资源
 
+[下载存档](https://github.com/ender-zhao/game-save/releases/tag/FarmVile-2-Country-Escape)
+
 ### 修改的内容列表
 
 N |物品名称      |修改的数量
