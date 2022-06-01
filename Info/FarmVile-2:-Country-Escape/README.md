@@ -2,9 +2,4 @@
 
 # FarmVile 2: Country Escape Crack Save
 
-存档修改内容
-
-物品    | 数量
--------|------------
-快速种子| 2147482000
-拍拍手套| 2147482000
+[查看中文介绍](https://github.com/ender-zhao/game-save/tree/main/Info/FarmVile-2:-Country-Escape/ZH-CN)
