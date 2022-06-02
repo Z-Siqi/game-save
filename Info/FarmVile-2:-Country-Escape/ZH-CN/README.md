@@ -29,6 +29,14 @@ N |物品名称      |修改的数量
 
 其余对内容的建造/更改: 最小
 
+<details><summary>截图:</summary>
+
+![Screenshot_20220602-100035](https://user-images.githubusercontent.com/77391690/171532871-04a78bef-b29a-4bc7-9b61-a236842dc340.png)
+
+![Screenshot_20220602-100052](https://user-images.githubusercontent.com/77391690/171532936-7b23ed06-8482-4659-9c72-ea52e9b5cb42.png)
+
+</details>
+
 ### 使用方法
 
 * 从压缩包提取出以下文件
