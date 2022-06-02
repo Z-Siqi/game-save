@@ -45,7 +45,7 @@ The rest of the construction of the content: less
 
   `UserBlob`, `UserBlob_A`, `UserBlob_B`, `ZooUserBlob`, `ZooUserBlob_A`, `ZooUserBlob_B`
 
-* Go to game data then remember it.
+* Go to game data then remember it path.
   
   `Android/data/com.zynga.FarmVille2CountryEscape/files`
   
@@ -70,7 +70,7 @@ The rest of the construction of the content: less
 
 * Run the game, then it downloads the file twice, so the game reloads twice.
 
-* Relax!
+* Enjoy!
 
 ### FAQ
 
