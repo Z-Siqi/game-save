@@ -1,5 +1,7 @@
 # 乡村度假 2 破解存档
 
+[View English introduction](https://github.com/ender-zhao/game-save/tree/main/Info/FarmVile-2:-Country-Escape)
+
 通过修改存档的方式使你轻松的游玩
 
 ### [下载存档](https://github.com/ender-zhao/game-save/releases/tag/FarmVile-2-Country-Escape)
