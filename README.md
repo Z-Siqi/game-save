@@ -1,4 +1,4 @@
-# Game Save
+# Game Saves
 Crack Save
 
 ## Game Name
